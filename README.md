@@ -56,12 +56,16 @@ Este proyecto ha sido desarrollado utilizando las siguientes tecnologías:
 * *HTML* → Para la estructura de la interfaz de usuario.
 * *CSS* → Para el diseño y estilos de la aplicación.
 
+
 ![Lenguajes](https://github.com/user-attachments/assets/1747583d-0f16-4fd2-a45d-d3b4fe23644a)
 
 ## ✍️ 6. Autores del proyecto
 
-| [<img src="https://www.instagram.com/p/CoxXM2HgAKdurJD1B_U5BTOpmhZSEzB27E623w0/" width=115><br><sub>Abril Mendieta Tores</sub>](https://github.com/Abril-Mendieta) | 
+| [ ![Adobe Express - file](https://github.com/user-attachments/assets/9e4b609d-949e-4bf1-bcd4-0d2a2e58ee3f)<br><sub>Abril Mendieta Torres</sub>](https://github.com/Abril-Mendieta) | 
 | :---: | 
+
+
+
 
 
 
