@@ -52,7 +52,7 @@ El uso del sistema es intuitivo y no requiere conocimientos técnicos previos. L
 ## 🖥 5. Tecnologías utilizadas.
 Este proyecto ha sido desarrollado utilizando las siguientes tecnologías:
 
-* *JavaScript (Vanilla JS)* → Para la lógica del sorteo y manipulación del DOM.
+* *JavaScript* → Para la lógica del sorteo y manipulación del DOM.
 * *HTML* → Para la estructura de la interfaz de usuario.
 * *CSS* → Para el diseño y estilos de la aplicación.
 
